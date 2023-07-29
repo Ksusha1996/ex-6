@@ -1,0 +1,15 @@
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\bin\Debug\net7.0\tab 6.exe
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\bin\Debug\net7.0\tab 6.deps.json
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\bin\Debug\net7.0\tab 6.runtimeconfig.json
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\bin\Debug\net7.0\tab 6.dll
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\bin\Debug\net7.0\tab 6.pdb
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.csproj.AssemblyReference.cache
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.AssemblyInfoInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.AssemblyInfo.cs
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.csproj.CoreCompileInputs.cache
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.dll
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\refint\tab 6.dll
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.pdb
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\tab 6.genruntimeconfig.cache
+C:\Users\usero\OneDrive\Рабочий стол\c# 1\ex-6\tab 6\obj\Debug\net7.0\ref\tab 6.dll
